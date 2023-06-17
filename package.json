@@ -1,0 +1,25 @@
+{
+  "name": "stackblitz-starters-2cbthy",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "18.2.8",
+    "@types/react-dom": "18.2.4",
+    "react": "18.2.0",
+    "react-contenteditable": "^3.3.7",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "18.2.0",
+    "react-draggable": "^4.4.5",
+    "react-native": "^0.71.9",
+    "react-xarrows": "^2.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

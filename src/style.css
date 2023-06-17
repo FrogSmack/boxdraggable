@@ -1,0 +1,11 @@
+[contenteditable] {
+  -webkit-user-select: text;
+  user-select: text;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+button:hover {
+  background: orange;
+}
